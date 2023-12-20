@@ -4,6 +4,11 @@
   "description": "personal react design system",
   "main": "index.js",
   "repository": "https://github.com/huun0424/huun-design-system.git",
+  "module": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "author": "huun0424 <huunl91@naver.com>",
   "license": "MIT",
   "peerDependencies": {
